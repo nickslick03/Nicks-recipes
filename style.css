@@ -1,0 +1,25 @@
+body{
+margin: 0 auto;
+text-align: center;
+box-sizing: border-box;
+
+}
+h1{
+    background-color:tan;
+    margin-top:0;
+    padding:20px;
+    text-align:left;
+}
+h2{
+    color:crimson;
+}
+.recipebut{
+    dipslay:flex;
+}
+.recipebutton{
+    flex:1 1 0;
+    background-color: tan;
+    color:crimson;
+    padding: 10px 20px;
+    text-decoration: none;
+}
